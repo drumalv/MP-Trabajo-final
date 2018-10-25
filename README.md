@@ -25,3 +25,7 @@ ASCII 3 : @%#*+=-:.
 ASCII 4 : $@B%8&WM#*oahkbdp\qwmZO0QLCJUYXzcvunxrjft/|()1{}[]?-_+<>i!lI;:,"^'`.  
 
 ![no carga la imagen](data/ascii1.PNG)
+
+Si alejamos las imagenes: 
+
+![no carga la imagen](data/ascii.PNG)
