@@ -3,11 +3,11 @@ Proyecto realizado en grupo. En el que hacemos varios tratamientos de imágenes 
 
 Encontramos 3 ejecutables en este proyecto:
 
--Test Imagen:
+### Test Imagen:
   Crea una imagen degradada y hace un recorte a otra imagen previamente introducida.
--Test Morphing: 
+### Test Morphing: 
   Transforma poco a poco una imagen en otra.
--Test Arte ASCII:
+### Test Arte ASCII:
   Transformamos una imagen pequeña .pgm en codigo ascii mediante una funcion definida, encuento a los carácteres usados tenemos 4 variantes:
 
 ASCII 1 : #$:.  
