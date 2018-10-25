@@ -10,5 +10,5 @@ Encontramos 3 ejecutables en este proyecto:
 -Test Arte ASCII:
   Transformamos una imagen pequeña .pgm en codigo ascii mediante una funcion definida, encuento a los carácteres usados tenemos 4 variantes:
 
-![texto cualquiera por si no carga la imagen](data/ascii1.png)
+![texto cualquiera por si no carga la imagen](data/ascii1.PNG)
 
